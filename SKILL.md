@@ -1,3 +1,9 @@
+---
+name: gtm-architect-factors-api-reference
+description: >
+  > This is the Factors.ai reference for use within gtm-architect. > For the full Factors.ai skill (standalone), see the `factors-ai` skill. > Auth is in `references/credentials.md`. **Base URL:** `https://api.factors.ai` Use this skill when working with gtm architect factors api reference tasks or workflows.
+---
+
 # Factors.ai API — GTM Architect Reference
 
 > This is the Factors.ai reference for use within gtm-architect.
